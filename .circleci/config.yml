@@ -107,7 +107,7 @@ jobs:
       - run:
           name: Deploy to Heroku
           command: |
-            git push https://heroku:$52b21e96-bbf1-4dd3-9122-d24055511beb@git.heroku.com/$jlb-regression-api.git master
+            git push https://heroku:52b21e96-bbf1-4dd3-9122-d24055511beb@git.heroku.com/jlb-regression-api.git master
 workflows:
   version: 2
   test-all:
