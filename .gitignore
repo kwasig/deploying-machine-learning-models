@@ -110,7 +110,10 @@ venv.bak/
 packages/regression_model/regression_model/datasets/*.csv
 packages/regression_model/regression_model/datasets/*.zip
 packages/regression_model/regression_model/datasets/*.txt
+<<<<<<< HEAD
 
+=======
+>>>>>>> 87215a1455727ffa1730c61cc61690ef542837dd
 train.csv
 test.csv
 test_data_predictions.csv
