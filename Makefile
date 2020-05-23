@@ -1,4 +1,4 @@
-NAME=udemy-course-dummy
+NAME=jlb-regression-api
 COMMIT_ID=$(shell git rev-parse HEAD)  # REMOVED
  
  
